@@ -1,7 +1,7 @@
 # Proyecto5-RecorridosCicl 
     ├── Notebooks/                                   # Notebooks de Jupyter 
     ├── src/                                         # Scripts (.py)
-    ├── README.md                                    # Descripción del proyectositas
+    ├── README.md                                    # Descripción del proyecto
 
     Requisitos e Instalación🛠️:
 
