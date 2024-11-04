@@ -1,4 +1,4 @@
-# Proyecto5-RecorridosCicl 
+# Proyecto5-RecorridosCiclistas
     ├── Notebooks/                                   # Notebooks de Jupyter 
     ├── src/                                         # Scripts (.py)
     ├── README.md                                    # Descripción del proyecto
