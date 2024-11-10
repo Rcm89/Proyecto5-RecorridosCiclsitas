@@ -94,7 +94,7 @@ def cargar_datos_wikipedia():
         if archivo.endswith('.csv'):
             clave_df = archivo.replace('.csv', '')
             ruta_archivo = os.path.join(ruta_datos, archivo)
-            df = pd.read_csv(ruta_archivo, index_col=0)
+            df = pd.read_csv(ruta_archivo)
             diccionario_dataframes[clave_df] = df
     return diccionario_dataframes
 
